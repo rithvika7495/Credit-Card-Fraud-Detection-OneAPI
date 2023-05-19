@@ -23,7 +23,7 @@ Credit Card Fraud Detection using Machine Learning with OneAPI is a project aime
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Credit-Card-Fraud-Detection-using-Machine-Learning-with-OneAPI.git
+git clone https://github.com/rithvika7495/Credit-Card-Fraud-Detection-using-Machine-Learning-with-OneAPI.git
 ```
 
 2. Navigate to the project directory:
