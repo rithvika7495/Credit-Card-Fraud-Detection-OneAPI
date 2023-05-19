@@ -102,9 +102,6 @@ This project provided practical experience in credit card fraud detection using 
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request. Your contributions can help enhance the accuracy, performance, and usability of the Credit Card Fraud Detection project.
 
-## License 📜
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements 👏
 
